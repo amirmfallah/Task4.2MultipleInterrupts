@@ -15,7 +15,7 @@ This project demonstrates handling multiple interrupt sources using the Arduino 
 
 ## Schematic
 
-![Circuit Schematic](images/interrupts_schem.jpg)
+![Circuit Schematic](images/interrupts_schem.png)
 
 - Arduino Nano 33 IoT
 - Push Button with 10kΩ pull-down resistor
